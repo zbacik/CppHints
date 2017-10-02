@@ -9,7 +9,7 @@ Meaning of value categories change over the time and some time is difficult to d
 ## Template
 Template are very powerful tool to write C++ code. Over the time I encounter with many special cases which I try to summarize it. Maybe you find some things which can be useful.
 
-#### Template template parameters
+#### 1. Template template parameters
 Simply said: template argument dependent on another template argument. 
 
 
