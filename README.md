@@ -14,6 +14,7 @@ If the definition of a class X does not explicitly declare a move constructor, o
 *  X does not have a user-declared move assignment operator,
 *  X does not have a user-declared destructor, and
 *  the move constructor would not be implicitly defined as deleted.
+
 [Source](https://github.com/zbacik/CppHints/tree/master/DefaultOperators)
 
 ## Universal reference
