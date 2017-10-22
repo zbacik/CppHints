@@ -14,7 +14,9 @@ If the definition of a class X does not explicitly declare a move constructor, o
 *  X does not have a user-declared move assignment operator,
 *  X does not have a user-declared destructor, and
 *  the move constructor would not be implicitly defined as deleted.
-* [Source](https://github.com/zbacik/CppHints/tree/master/DefaultOperators)
+[Source](https://github.com/zbacik/CppHints/tree/master/DefaultOperators)
+
+## Universal reference
 
 ## Template
 Template are very powerful tool to write C++ code. Over the time I encounter with many special cases which I try to summarize it. Maybe you find some things which can be useful.
